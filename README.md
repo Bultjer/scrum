@@ -135,6 +135,7 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - maximum 3 hours for a one month sprint
 - The Scrum Team inspects how the last Sprint went with regards to individuals, interactions, processes, tools, and their Definition of Done
 - Plan ways to increase quality and effectiveness
+- Adapting the Definition of Done
 
 ## Scrum Artifacts
 
