@@ -70,6 +70,7 @@ Successful use of Scrum depends on people becoming more proficient in living fiv
 - Creating a usable increment
 - Creating the **Sprint Backlog**
 - Adhering to a Definition of Done
+- Refines the Product Backlog (no more than 10% of capacity)
 
 ### Product Owner
 
